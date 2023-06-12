@@ -19,6 +19,7 @@
     <img style="width:40px;" alt='bootstrap' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
     <img style="width:40px;" alt='jquery' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img style="width:40px;" alt='vscode' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img  style="width:40px;" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>    
     <img style="width:40px;" alt='github' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
